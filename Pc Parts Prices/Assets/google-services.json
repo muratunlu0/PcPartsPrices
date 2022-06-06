@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963820241581",
+    "firebase_url": "https://pc-toplama.firebaseio.com",
+    "project_id": "pc-toplama",
+    "storage_bucket": "pc-toplama.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963820241581:android:a033acf1f6d2331235bc24",
+        "android_client_info": {
+          "package_name": "com.androidd.pctoplama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963820241581-qq4gvc0jkv8o98mbrqj8rd4n0evno2l7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBynwSJfHctLZVW4EmUjImJffUJ8WLeI30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963820241581-qq4gvc0jkv8o98mbrqj8rd4n0evno2l7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
